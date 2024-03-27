@@ -1,9 +1,0 @@
-# Nmap 7.80 scan initiated Tue Mar 26 22:50:35 2024 as: nmap -sU --top-port 100 -oA nmap_udp_top_100 --min-rate 1250 0.0.0.0
-Nmap scan report for 0.0.0.0
-Host is up (0.0000020s latency).
-Not shown: 98 filtered ports
-PORT     STATE         SERVICE
-631/udp  open|filtered ipp
-5353/udp open|filtered zeroconf
-
-# Nmap done at Tue Mar 26 22:50:35 2024 -- 1 IP address (1 host up) scanned in 0.28 seconds
